@@ -160,3 +160,4 @@ D:\Learning\Practical\GraphQL\CommanderGQL\obj\Debug\net8.0\refint\CommanderGQL.
 D:\Learning\Practical\GraphQL\CommanderGQL\obj\Debug\net8.0\CommanderGQL.pdb
 D:\Learning\Practical\GraphQL\CommanderGQL\obj\Debug\net8.0\CommanderGQL.genruntimeconfig.cache
 D:\Learning\Practical\GraphQL\CommanderGQL\obj\Debug\net8.0\ref\CommanderGQL.dll
+D:\Learning\Practical\GraphQL\CommanderGQL\obj\Debug\net8.0\CommanderGQL.sourcelink.json
